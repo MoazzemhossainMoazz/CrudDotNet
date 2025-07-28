@@ -274,3 +274,4 @@ D:\My Work\Projects\CRUDProj\banglaCrud\banglaCrud\obj\Debug\net9.0\compressed\3
 D:\My Work\Projects\CRUDProj\banglaCrud\banglaCrud\obj\Debug\net9.0\compressed\ef81p7el0z-7183nd47gn.gz
 D:\My Work\Projects\CRUDProj\banglaCrud\banglaCrud\obj\Debug\net9.0\compressed\8hglsh6wjc-fv6m00jlsj.gz
 D:\My Work\Projects\CRUDProj\banglaCrud\banglaCrud\obj\Debug\net9.0\banglaCrud.csproj.Up2Date
+D:\My Work\Projects\CRUDProj\banglaCrud\banglaCrud\obj\Debug\net9.0\banglaCrud.sourcelink.json

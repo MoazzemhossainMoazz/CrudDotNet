@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\banglacrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\banglacrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\migrations\\20250728110414_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\migrations\\20250728110414_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\banglacrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\banglacrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727084108_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:banglaCrud\\Migrations\\20250727084108_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727083421_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:banglaCrud\\Migrations\\20250727083421_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -175,6 +211,121 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HouseController.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HouseController.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Controllers\\HouseController.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HouseController.cs",
+              "RelativeToolTip": "banglaCrud\\Controllers\\HouseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:08:41.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "banglaCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "banglaCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T11:25:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "banglaCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:08:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250728110414_youtube.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250728110414_youtube.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250728110414_youtube.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250728110414_youtube.cs",
+              "RelativeToolTip": "banglaCrud\\Migrations\\20250728110414_youtube.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:04:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "banglaCrud\\appsettings.Development.json",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.Development.json",
+              "RelativeToolTip": "banglaCrud\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T10:41:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250727084108_youtube.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727084108_youtube.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250727084108_youtube.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727084108_youtube.cs",
+              "RelativeToolTip": "banglaCrud\\Migrations\\20250727084108_youtube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:41:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250727083421_youtube.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727083421_youtube.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250727083421_youtube.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727083421_youtube.cs",
+              "RelativeToolTip": "banglaCrud\\Migrations\\20250727083421_youtube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:34:21.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Program.cs",
+              "RelativeDocumentMoniker": "banglaCrud\\Program.cs",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Program.cs",
+              "RelativeToolTip": "banglaCrud\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:07:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "banglaCrud\\appsettings.json",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.json",
+              "RelativeToolTip": "banglaCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T05:30:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "banglaCrud.csproj",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\banglaCrud.csproj",
               "RelativeDocumentMoniker": "banglaCrud\\banglaCrud.csproj",
@@ -187,33 +338,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "banglaCrud\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T10:15:38.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "House.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Models\\House.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Models\\House.cs",
               "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Models\\House.cs",
               "RelativeToolTip": "banglaCrud\\Models\\House.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T10:04:45.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Models\\ErrorViewModel.cs",
@@ -221,8 +372,7 @@
               "RelativeToolTip": "banglaCrud\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T04:29:37.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T04:29:37.601Z"
             }
           ]
         }

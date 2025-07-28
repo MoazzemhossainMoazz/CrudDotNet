@@ -1,3 +1,6 @@
+using banglaCrud.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace banglaCrud
 {
     public class Program
@@ -8,6 +11,8 @@ namespace banglaCrud
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 
