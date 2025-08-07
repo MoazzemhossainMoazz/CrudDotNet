@@ -1,0 +1,32 @@
+﻿@model IEnumerable<banglaCrud.Models.House>
+
+<h1>House list</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>House name</th>
+            <th>House price</th>
+            <th>House sqFeet</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model == null || !Model.Any())
+        {
+            <tr>
+                <td colspan="3">Empty list</td>
+            </tr>
+        }
+        else
+        {
+            foreach (var x in Model)
+            {
+                <tr>
+                    <td>@x.HouseName</td>
+                    <td>@x.price</td>
+                    <td>@x.sqFeet</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\views\\house\\edithouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\views\\house\\edithouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\views\\house\\gethouselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\views\\house\\gethouselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|solutionrelative:banglacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB01AF80-4C73-4DDF-AD1D-75448331A806}|banglaCrud\\banglaCrud.csproj|d:\\my work\\projects\\crudproj\\banglacrud\\banglacrud\\migrations\\20250728110414_youtube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -211,12 +223,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "editHouse.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\House\\editHouse.cshtml",
+              "RelativeDocumentMoniker": "banglaCrud\\Views\\House\\editHouse.cshtml",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\House\\editHouse.cshtml*",
+              "RelativeToolTip": "banglaCrud\\Views\\House\\editHouse.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:47:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "banglaCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "banglaCrud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T08:49:58.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getHouseList.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\House\\getHouseList.cshtml",
+              "RelativeDocumentMoniker": "banglaCrud\\Views\\House\\getHouseList.cshtml",
+              "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\House\\getHouseList.cshtml",
+              "RelativeToolTip": "banglaCrud\\Views\\House\\getHouseList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T08:35:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HouseController.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HouseController.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Controllers\\HouseController.cs",
               "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HouseController.cs",
               "RelativeToolTip": "banglaCrud\\Controllers\\HouseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T13:08:41.722Z",
               "EditorCaption": ""
@@ -229,27 +280,27 @@
               "RelativeDocumentMoniker": "banglaCrud\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "banglaCrud\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T11:25:03.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Controllers\\HomeController.cs",
               "RelativeToolTip": "banglaCrud\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T11:08:05.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "20250728110414_youtube.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250728110414_youtube.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250728110414_youtube.cs",
@@ -257,12 +308,11 @@
               "RelativeToolTip": "banglaCrud\\Migrations\\20250728110414_youtube.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T11:04:15.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T11:04:15.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.Development.json",
               "RelativeDocumentMoniker": "banglaCrud\\appsettings.Development.json",
@@ -270,12 +320,11 @@
               "RelativeToolTip": "banglaCrud\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T10:41:20.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T10:41:20.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20250727084108_youtube.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727084108_youtube.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250727084108_youtube.cs",
@@ -287,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "20250727083421_youtube.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Migrations\\20250727083421_youtube.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Migrations\\20250727083421_youtube.cs",
@@ -299,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Program.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Program.cs",
@@ -307,12 +356,11 @@
               "RelativeToolTip": "banglaCrud\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:07:25.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T08:07:25.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\appsettings.json",
               "RelativeDocumentMoniker": "banglaCrud\\appsettings.json",
@@ -320,12 +368,11 @@
               "RelativeToolTip": "banglaCrud\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T05:30:52.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T05:30:52.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "banglaCrud.csproj",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\banglaCrud.csproj",
               "RelativeDocumentMoniker": "banglaCrud\\banglaCrud.csproj",
@@ -333,12 +380,11 @@
               "RelativeToolTip": "banglaCrud\\banglaCrud.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-27T04:45:43.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T04:45:43.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Data\\ApplicationDbContext.cs",
@@ -346,12 +392,11 @@
               "RelativeToolTip": "banglaCrud\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T10:15:38.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T10:15:38.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "House.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Models\\House.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Models\\House.cs",
@@ -359,12 +404,11 @@
               "RelativeToolTip": "banglaCrud\\Models\\House.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T10:04:45.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T10:04:45.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\My Work\\Projects\\CRUDProj\\banglaCrud\\banglaCrud\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "banglaCrud\\Models\\ErrorViewModel.cs",

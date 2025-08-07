@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("banglaCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634e4dc439f8c88a812041923161439824e58dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f458afd36a13f43b3b10cf9891fc778d8433e5f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("banglaCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("banglaCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
